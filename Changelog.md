@@ -6,11 +6,8 @@ Version 1.0.0 (09-28-2024)
     - Generate Pivot Table for the Movie Data sheet.
     - Added a column 'Average of Box Office Revenue' in the pivot table to find the average Amount of Money Movies make in each Genre.
     -Added a column 'Average of Budget' to track the Average amount of money spent on a movie in each genre.
+    -Created a visual of box office revenue by genre.
 
 ## Changes 
     - Added comma separater to the values of 'Average Box office Revenue.
-    - Removal of whitespace (cosmetic)
-
-## Fixes
-    - Fixed misalignment in Column "TotalCost" where some rows did not match with correct dates
-    - Fixed SUM to run over entire column instead of partial
+    
