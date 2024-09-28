@@ -11,9 +11,6 @@ This is a data analysis project that aims to help a filmmaking company identify 
 - An average of $ 48,871,397.64 is spent on a movie broken by genre.
 - The genre that has the most profitable movies (on average) is Adventure.
 
-
-## Future work
-
 ## Acknowledgements/References
 [Google Data Analytics Professional Certificate](https://www.coursera.org/learn/analyze-data/quiz/vuioG/hands-on-activity-explore-movie-data-with-pivot-tables/attempt)
 
