@@ -7,6 +7,10 @@ This is a data analysis project that aims to help a filmmaking company identify 
 - On average, which genre has the most profitable movies?
 
 ## Results
+- Movies in each genre makes an average of $151,983,208.66
+- An average of $ 48,871,397.64 is spent on a movie broken by genre.
+- The genre that has the most profitable movies (on average) is Adventure.
+
 
 ## Future work
 
