@@ -1,10 +1,10 @@
 # Changelog
 This file contains the notable changes to the project
 
-Version 1.0.0 (02-23-2019)
+Version 1.0.0 (09-28-2024)
 ## New
-    - Added column classifiers (Date, Time, PerUnitCost, TotalCost, etc. )
-    - Added Column "AveCost" to track average item cost
+    - Generate Pivot Table for the Movie Data sheet.
+    - Added a column 'Average of Box Office Revenue' in the pivot table to find the average Amount of Money Movies make in each Genre.
 
 ## Changes 
     - Changed date format to MM-DD-YYYY
