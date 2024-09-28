@@ -6,16 +6,12 @@ This is a data analysis project that aims to help a filmmaking company identify 
 - On average, how much money is spent on a movie broken by genre?
 - On average, which genre has the most profitable movies?
 
-## Installation instructions
-
-## Data Sources
-
-## Code structure
-
-## Results and evaluation
+## Results
 
 ## Future work
 
 ## Acknowledgements/References
+[Google Data Analytics Professional Certificate](https://www.coursera.org/learn/analyze-data/quiz/vuioG/hands-on-activity-explore-movie-data-with-pivot-tables/attempt)
 
 ## License
+[MIT](https://opensource.org/license/mit)
